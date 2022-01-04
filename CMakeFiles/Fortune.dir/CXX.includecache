@@ -1,0 +1,116 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/Arc.h
+VoronoiDiagram.h
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/VoronoiDiagram.h
+
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/Beachline.cpp
+Beachline.h
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/Beachline.h
+limits
+-
+cmath
+-
+Arc.h
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/Arc.h
+
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/Beachline.h
+Vector2.h
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/Vector2.h
+VoronoiDiagram.h
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/VoronoiDiagram.h
+
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/Box.cpp
+Box.h
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/Box.h
+
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/Box.h
+array
+-
+limits
+-
+Vector2.h
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/Vector2.h
+
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/Event.cpp
+Event.h
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/Event.h
+
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/Event.h
+Vector2.h
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/Vector2.h
+VoronoiDiagram.h
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/VoronoiDiagram.h
+
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/FortuneAlgorithm.cpp
+FortuneAlgorithm.h
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/FortuneAlgorithm.h
+Arc.h
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/Arc.h
+Event.h
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/Event.h
+list
+-
+unordered_map
+-
+
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/FortuneAlgorithm.h
+PriorityQueue.h
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/PriorityQueue.h
+VoronoiDiagram.h
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/VoronoiDiagram.h
+Beachline.h
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/Beachline.h
+
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/PriorityQueue.h
+ostream
+-
+vector
+-
+memory
+-
+
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/Vector2.cpp
+Vector2.h
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/Vector2.h
+cmath
+-
+
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/Vector2.h
+ostream
+-
+
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/VoronoiDiagram.cpp
+VoronoiDiagram.h
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/VoronoiDiagram.h
+unordered_set
+-
+
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/VoronoiDiagram.h
+vector
+-
+list
+-
+Box.h
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/Box.h
+
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/main.cpp
+iostream
+-
+vector
+-
+chrono
+-
+random
+-
+SFML/Graphics.hpp
+-
+FortuneAlgorithm.h
+/home/sapere-aude/Desktop/PRJ/UNIGE/RESEARCH REPORT/examples/FortuneAlgorithm-master/src/FortuneAlgorithm.h
+
